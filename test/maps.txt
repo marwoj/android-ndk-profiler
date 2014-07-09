@@ -1,0 +1,29 @@
+006ac000-006c7000 r-xp 00000000 08:03 132025     /lib/ld-2.11.1.so
+006c7000-006c8000 r--p 0001a000 08:03 132025     /lib/ld-2.11.1.so
+006c8000-006c9000 rw-p 0001b000 08:03 132025     /lib/ld-2.11.1.so
+00b16000-00c69000 r-xp 00000000 08:03 134723     /lib/tls/i686/cmov/libc-2.11.1.so
+00c69000-00c6a000 ---p 00153000 08:03 134723     /lib/tls/i686/cmov/libc-2.11.1.so
+00c6a000-00c6c000 r--p 00153000 08:03 134723     /lib/tls/i686/cmov/libc-2.11.1.so
+00c6c000-00c6d000 rw-p 00155000 08:03 134723     /lib/tls/i686/cmov/libc-2.11.1.so
+00c6d000-00c70000 rw-p 00000000 00:00 0 
+00d63000-00d64000 r-xp 00000000 00:00 0          [vdso]
+08048000-08054000 r-xp 00000000 08:03 154861     /bin/cat
+08054000-08055000 r--p 0000b000 08:03 154861     /bin/cat
+08055000-08056000 rw-p 0000c000 08:03 154861     /bin/cat
+081e0000-08201000 rw-p 00000000 00:00 0          [heap]
+b75e4000-b7623000 r--p 00000000 08:03 144513     /usr/lib/locale/en_US.utf8/LC_CTYPE
+b7623000-b7741000 r--p 00000000 08:03 144512     /usr/lib/locale/en_US.utf8/LC_COLLATE
+b7741000-b7742000 rw-p 00000000 00:00 0 
+b7747000-b7748000 r--p 00000000 08:03 144115     /usr/lib/locale/en_US.utf8/LC_NUMERIC
+b7748000-b7749000 r--p 00000000 08:03 144338     /usr/lib/locale/en_US.utf8/LC_TIME
+b7749000-b774a000 r--p 00000000 08:03 144339     /usr/lib/locale/en_US.utf8/LC_MONETARY
+b774a000-b774b000 r--p 00000000 08:03 144514     /usr/lib/locale/en_US.utf8/LC_MESSAGES/SYS_LC_MESSAGES
+b774b000-b774c000 r--p 00000000 08:03 144194     /usr/lib/locale/en_US.utf8/LC_PAPER
+b774c000-b774d000 r--p 00000000 08:03 144114     /usr/lib/locale/en_US.utf8/LC_NAME
+b774d000-b774e000 r--p 00000000 08:03 144520     /usr/lib/locale/en_US.utf8/LC_ADDRESS
+b774e000-b774f000 r--p 00000000 08:03 144522     /usr/lib/locale/en_US.utf8/LC_TELEPHONE
+b774f000-b7750000 r--p 00000000 08:03 144047     /usr/lib/locale/en_US.utf8/LC_MEASUREMENT
+b7750000-b7757000 r--s 00000000 08:03 195275     /usr/lib/gconv/gconv-modules.cache
+b7757000-b7758000 r--p 00000000 08:03 144529     /usr/lib/locale/en_US.utf8/LC_IDENTIFICATION
+b7758000-b775a000 rw-p 00000000 00:00 0 
+bfb6d000-bfb82000 rw-p 00000000 00:00 0          [stack]
